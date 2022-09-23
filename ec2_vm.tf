@@ -1,6 +1,6 @@
 provider "aws" {
-  access_key = "AKIAQR4BL1123Z3ZXC5C2L5W"
-  secret_key = "fcPKTAMM/sgQ/131iw/h1SYCUz51318FP5+vfcqkKP/vxl"
+  access_key = "AKIAQR4BLDAS1123Z3ZXC5C2L5W"
+  secret_key = "fcPKTAMM/sgQ/131iw/hAFAFA1SYCUz51318FP5+vfcqkKP/vxl"
   profile    = "default"
   region     = "ap-south-1"
 }
