@@ -1,4 +1,4 @@
-# How to insatll terrafrom 
+# How to install terrafrom 
 https://www.terraform.io/downloads
 
 # Need to insatll aws cli 
